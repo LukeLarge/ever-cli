@@ -1,0 +1,16 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/CVS": true,
+        "**/.ruby-lsp": true,
+        ".mule": true
+    },
+    "iis.configDir": "",
+    "ocaml.sandbox": {
+        "kind": "global"
+    }
+}
